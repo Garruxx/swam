@@ -38,4 +38,4 @@ Ejemplo:
 
 Actualmente la manera de configurarlo es darle click derecho a la carpeta que quieres personalizar, darle click derecho, propiedades, personalizar, cambiar icono y buscas y seleccionas el icono donde los hayas guardado. 
 
-<video controls src="MD/config.mp4" title="Title"></video>
+![config custom icon folder windows](MD/config.gif)
