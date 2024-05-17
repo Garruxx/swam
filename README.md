@@ -1,10 +1,13 @@
 # Garrux Swam icons
 
 Paquete de iconos para usar en tus directorios de windows y darle una apariencia mas personalizada y atractiva.
+Paquete de iconos para usar en tus directorios de windows y darle una apariencia mas personalizada y atractiva.
 
+Ejemplo:
 Ejemplo:
 ![Explorador de archivos de windows](MD/example.png)
 
+## Iconos disponibles
 ## Iconos disponibles
 
 | Nombre   | Icono                                          | Nombre       | Icono                                              |
@@ -38,5 +41,7 @@ Ejemplo:
 ## Configurar
 
 Actualmente la manera de configurarlo es darle click derecho a la carpeta que quieres personalizar, darle click derecho, propiedades, personalizar, cambiar icono y buscas y seleccionas el icono donde los hayas guardado.
+Actualmente la manera de configurarlo es darle click derecho a la carpeta que quieres personalizar, darle click derecho, propiedades, personalizar, cambiar icono y buscas y seleccionas el icono donde los hayas guardado.
 
 ![config custom icon folder windows](MD/config.gif)
+
