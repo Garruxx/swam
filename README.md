@@ -1,11 +1,11 @@
 # Garrux Swam icons
 
-Paquete de iconos para usar en tus directorios de windows y darle una apariencia mas personalizada y atractiva. 
+Paquete de iconos para usar en tus directorios de windows y darle una apariencia mas personalizada y atractiva.
 
-Ejemplo: 
+Ejemplo:
 ![Explorador de archivos de windows](MD/example.png)
 
-## Iconos disponibles 
+## Iconos disponibles
 
 | Nombre   | Icono                                          | Nombre       | Icono                                              |
 | -------- | ---------------------------------------------- | ------------ | -------------------------------------------------- |
@@ -31,11 +31,12 @@ Ejemplo:
 | guard    | <img src="ico-128x128/guard.ico" width=40/>    | graphql      | <img src="ico-128x128/graphql.ico" width=40/>      |
 | nginx    | <img src="ico-128x128/nginx.ico" width=40/>    | temp         | <img src="ico-128x128/temp.ico" width=40/>         |
 | vue      | <img src="ico-128x128/vue.ico" width=40/>      | next         | <img src="ico-128x128/next.ico" width=40/>         |
-
-
+| mongodb  | <img src="ico-128x128/mongodb.ico" width=40/>  | postgresql   | <img src="ico-128x128/postgresql.ico" width=40/>   |
+| mysql    | <img src="ico-128x128/mysql.ico" width=40/>    | database     | <img src="ico-128x128/database.ico" width=40/>     |
+| c-sharp  | <img src="ico-128x128/c-sharp.ico" width=40/>  |              |                                                    |
 
 ## Configurar
 
-Actualmente la manera de configurarlo es darle click derecho a la carpeta que quieres personalizar, darle click derecho, propiedades, personalizar, cambiar icono y buscas y seleccionas el icono donde los hayas guardado. 
+Actualmente la manera de configurarlo es darle click derecho a la carpeta que quieres personalizar, darle click derecho, propiedades, personalizar, cambiar icono y buscas y seleccionas el icono donde los hayas guardado.
 
 ![config custom icon folder windows](MD/config.gif)
