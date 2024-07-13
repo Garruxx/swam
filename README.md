@@ -36,7 +36,7 @@ Ejemplo:
 | vue      | <img src="ico-128x128/vue.ico" width=40/>      | next         | <img src="ico-128x128/next.ico" width=40/>         |
 | mongodb  | <img src="ico-128x128/mongodb.ico" width=40/>  | postgresql   | <img src="ico-128x128/postgresql.ico" width=40/>   |
 | mysql    | <img src="ico-128x128/mysql.ico" width=40/>    | database     | <img src="ico-128x128/database.ico" width=40/>     |
-| c-sharp  | <img src="ico-128x128/c-sharp.ico" width=40/>  | laravel      | <img src="ico-128x128/laravel" width=40/>     |
+| c-sharp  | <img src="ico-128x128/c-sharp.ico" width=40/>  | laravel      | <img src="ico-128x128/laravel.ico" width=40/>     |
 
 ## Configurar
 
